@@ -1,0 +1,72 @@
+Itabaiana
+Frei Paulo
+21.0
+Frei Paulo
+Itabaiana
+21.0
+Frei Paulo
+Carira
+36.0
+Carira
+Frei Paulo
+36.0
+Frei Paulo
+Ribeirópolis
+18.0
+Ribeirópolis
+Frei Paulo
+18.0
+Itabaiana
+São Domingos
+22.0
+São Domingos
+Itabaiana
+22.0
+Ribeirópolis
+Glória
+40.0
+Glória
+Ribeirópolis
+40.0
+Carira
+Glória
+48.0
+Glória
+Carira
+48.0
+Itabaiana
+Campo do Brito
+11.0
+Campo do Brito
+Itabaiana
+11.0
+Itabaiana
+Macambira
+15.0
+Macambira
+Itabaiana
+15.0
+Itabaiana
+Malhador
+20.0
+Malhador
+Itabaiana
+20.0
+Itabaiana
+Areia Branca
+19.0
+Areia Branca
+Itabaiana
+19.0
+Areia Branca
+Aracaju
+38.0
+Aracaju
+Areia Branca
+38.0
+Itabaiana
+Moita Bonita
+18.0
+Moita Bonita
+Itabaiana
+18.0

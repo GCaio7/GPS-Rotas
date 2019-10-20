@@ -1,0 +1,24 @@
+rota("Itabaiana", "Frei Paulo", 31.5).
+rota("Frei Paulo", "Itabaiana", 31.5).
+rota("Frei Paulo", "Carira", 54.0).
+rota("Carira", "Frei Paulo", 54.0).
+rota("Frei Paulo", "Ribeirópolis", 27.0).
+rota("Ribeirópolis", "Frei Paulo", 27.0).
+rota("Itabaiana", "São Domingos", 33.0).
+rota("São Domingos", "Itabaiana", 33.0).
+rota("Ribeirópolis", "Glória", 60.0).
+rota("Glória", "Ribeirópolis", 60.0).
+rota("Carira", "Glória", 72.0).
+rota("Glória", "Carira", 72.0).
+rota("Itabaiana", "Campo do Brito", 16.5).
+rota("Campo do Brito", "Itabaiana", 16.5).
+rota("Itabaiana", "Macambira", 22.5).
+rota("Macambira", "Itabaiana", 22.5).
+rota("Itabaiana", "Malhador", 30.0).
+rota("Malhador", "Itabaiana", 30.0).
+rota("Itabaiana", "Areia Branca", 28.5).
+rota("Areia Branca", "Itabaiana", 28.5).
+rota("Areia Branca", "Aracaju", 57.0).
+rota("Aracaju", "Areia Branca", 57.0).
+rota("Itabaiana", "Moita Bonita", 27.0).
+rota("Moita Bonita", "Itabaiana", 27.0).
